@@ -3,6 +3,7 @@ plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "0.6.0"
 }
 
-rootProject.name = "tdd-fundamentals-java"
+rootProject.name = "vending-machine-java"
 
 include("vendomagic")
+include("venma")

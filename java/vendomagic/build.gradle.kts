@@ -1,3 +1,3 @@
 plugins {
-    id("tdd-workshop-conventions")
+    id("vending-machine-conventions")
 }
